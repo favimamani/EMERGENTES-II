@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Elemento
+comment1.params=elTitulo\ tiempo
+comment1.target=Elemento(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Elemento\r\n
+comment2.params=comentario
+comment2.target=void\ setComentario(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getComentario()
+comment4.params=tengo
+comment4.target=void\ setLotengo(boolean)
+comment5.params=
+comment5.target=boolean\ getLotengo()
+comment6.params=
+comment6.target=void\ print()
+comment7.params=
+comment7.target=java.lang.String\ getTitulo()
+numComments=8
